@@ -8,7 +8,6 @@ Dating has existed in various forms throughout history, and people's interest in
 
 The final dataset used in the study includes information on 551 participants and 8,368 interactions between pairs of participants. Each row in the dataset represents a distinct participant-partner relationship, considering interactions between participants. Out of the original 195 features, only 43 features were selected for analysis based on their relevance to the research question. These features were categorized into four major groups: demographic information (such as religion, race, and age), interest in various leisure activities (like sports, exercise, dining, museums, art, hiking, and gaming), perceptions of the other person (regarding attractiveness, sincerity, intelligence, fun, ambition, and shared interests), and the importance assigned to these factors when choosing a significant other by each participant. The selection of these features was influenced by previous studies that explored the determinants of liking and dating choices.
 
-
 ## Results
 
 |        Model           | Train Accuracy | Test Accuracy |
